@@ -1,0 +1,31 @@
+.footer{
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+#root {
+  margin: 5rem;
+}
+.search-bar {
+  margin: 1rem;
+ }
+
+.video-item {
+  cursor: pointer;
+  padding: 2.7rem;
+}
+
+.video-item:hover {
+  background-color: #eee
+}
+
+.video-item img {
+  max-width: 6rem;
+}
+
+.video-detail .details{
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
