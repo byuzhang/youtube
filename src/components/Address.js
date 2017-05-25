@@ -7,7 +7,7 @@ const Address = (props) => {
       <Col md={5}>
         Created by <a href="https://icyfish.me/" target="_blank">icyfish</a>
       </Col>
-      <Col md={7} mdPush={5}>
+      <Col md={7} className="text-right">
         Powered by <a href="https://github.com/icyfish/youtube/"target="_blank">Simplified YouTube</a>
       </Col>
     </Row>
